@@ -1,5 +1,5 @@
 import unittest
-from script import scitani
+from calculator import scitani
 
 class TestScitaniFunction(unittest.TestCase):
 
